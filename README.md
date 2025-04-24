@@ -80,17 +80,3 @@ This repository is created as part of my learning journey and webinar sessions. 
 - [OverTheWire Wargames](https://overthewire.org/wargames/)
 
 ---
-
-## 📢 About Me
-
-Hi! I'm **[Your Name]**, a cybersecurity enthusiast and Linux learner.  
-This repo is part of my efforts to learn, document, and share knowledge with others.  
-Feel free to fork or contribute!
-
-📬 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-**Happy Hacking! 💻🔐**
-
-#KaliLinux #LinuxCommands #Cybersecurity #EthicalHacking #TerminalTips
